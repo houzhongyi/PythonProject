@@ -1,6 +1,9 @@
 import asyncio
 import logging,log
 import aiomysql
+import Model
+import StringField
+import IntegerField
 
 @asyncio.coroutine
 def create_pool(loop, **kw):
@@ -47,4 +50,8 @@ def execute(sql, args):
             raise
         return affected
 
-from orm import Model, StringField, IntegerField
+class User(Model):
+    __table__ = 'users'
+
+    id = IntegerField(primary_key=True)
+    name = StringField()

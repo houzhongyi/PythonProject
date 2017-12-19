@@ -1,4 +1,5 @@
 import logging
+import ModelMetaclass
 class Model(dict, metaclass=ModelMetaclass):
 
     def __init__(self, **kw):

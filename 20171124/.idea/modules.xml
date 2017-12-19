@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/20171124.iml" filepath="$PROJECT_DIR$/.idea/20171124.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20171126/.idea/20171126.iml" filepath="$PROJECT_DIR$/../20171126/.idea/20171126.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../201712/.idea/201712.iml" filepath="$PROJECT_DIR$/../201712/.idea/201712.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MachineLearning/.idea/MachineLearning.iml" filepath="$PROJECT_DIR$/../MachineLearning/.idea/MachineLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ORM/.idea/ORM.iml" filepath="$PROJECT_DIR$/../ORM/.idea/ORM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProject/.idea/PythonProject.iml" filepath="$PROJECT_DIR$/../PythonProject/.idea/PythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Snow/.idea/Snow.iml" filepath="$PROJECT_DIR$/../Snow/.idea/Snow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" filepath="$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome/.idea/awesome.iml" filepath="$PROJECT_DIR$/../awesome/.idea/awesome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-03/.idea/awesome-python3-webapp-day-03.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-03/.idea/awesome-python3-webapp-day-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-04/.idea/awesome-python3-webapp-day-04.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-04/.idea/awesome-python3-webapp-day-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensor_mnist-master/.idea/tensor_mnist-master.iml" filepath="$PROJECT_DIR$/../tensor_mnist-master/.idea/tensor_mnist-master.iml" />
+    </modules>
+  </component>
+</project>

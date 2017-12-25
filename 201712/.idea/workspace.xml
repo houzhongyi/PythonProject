@@ -1,18 +1,725 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffa2d3d1-663b-4eb4-a09e-ded6aed1cee1" name="Default" comment="" />
+    <list default="true" id="ffa2d3d1-663b-4eb4-a09e-ded6aed1cee1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/.idea/AILearning.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/JANAF_CH4.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/Matplotlib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/Scipy.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/easy-install.pth" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/PKG-INFO" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/SOURCES.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/dependency_links.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/entry_points.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/not-zip-safe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/requires.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/top_level.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/__main__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/appdirs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/cache.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/controller.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/ansi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/ansitowin32.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/initialise.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/win32.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/winterm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/database.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/index.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/locators.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/manifest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/markers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/metadata.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/resources.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/scripts.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/t32.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/t64.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/util.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/w32.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/w64.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/wheel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distro.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_inputstream.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/py.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/constants.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/lint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/html5parser.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/serializer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/ipaddress.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/linklockfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/ordereddict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/__about__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/_compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/_structures.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/markers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/requirements.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/specifiers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/bar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/counter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/helpers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/spinner.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pyparsing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/re-vendor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/adapters.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/api.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/auth.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/cacert.pem" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/certs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/cookies.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/exceptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/hooks.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/models.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/big5freq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/big5prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/chardetect.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/chardistribution.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/charsetprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/codingstatemachine.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/constants.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/cp949prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/escprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/escsm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/eucjpprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euckrfreq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euckrprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euctwfreq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euctwprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/gb2312freq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/gb2312prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/hebrewprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/jisfreq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/jpcntx.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/latin1prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcssm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sjisprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/universaldetector.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/utf8prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/_collections.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/socks.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/exceptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/fields.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/filepost.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/six.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/request.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/response.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/connection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/request.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/response.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/retry.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/url.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/sessions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/status_codes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/structures.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/retrying.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/six.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/labels.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/mklabels.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/basecommand.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/baseparser.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/cmdoptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/check.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/completion.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/download.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/freeze.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/hash.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/help.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/install.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/list.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/search.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/show.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/uninstall.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/wheel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/compat/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/compat/dictconfig.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/download.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/exceptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/index.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/locations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/models/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/models/index.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/check.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/freeze.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/pep425tags.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_file.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_install.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_set.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_uninstall.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/status_codes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/appdirs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/build.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/deprecation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/encoding.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/filesystem.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/glibc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/hashes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/logging.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/outdated.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/packaging.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/setuptools_build.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/ui.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/bazaar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/git.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/mercurial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/subversion.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/wheel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/site-packages/setuptools.pth" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Lib/tcl8.5/init.tcl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/Activate.ps1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_asyncio.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_bz2.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_ctypes.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_ctypes_test.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_decimal.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_elementtree.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_hashlib.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_lzma.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_msi.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_multiprocessing.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_overlapped.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_socket.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_sqlite3.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_ssl.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_testbuffer.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_testcapi.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_testconsole.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_testimportmultiple.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_testmultiphase.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/_tkinter.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/activate" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/activate.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-console-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-datetime-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-debug-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-errorhandling-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-file-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-file-l1-2-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-file-l2-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-handle-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-heap-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-interlocked-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-libraryloader-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-localization-l1-2-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-memory-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-namedpipe-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-processenvironment-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-processthreads-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-processthreads-l1-1-1.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-profile-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-rtlsupport-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-string-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-synch-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-synch-l1-2-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-sysinfo-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-timezone-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-core-util-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-conio-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-convert-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-environment-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-filesystem-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-heap-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-locale-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-math-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-multibyte-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-private-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-process-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-runtime-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-stdio-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-string-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-time-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/api-ms-win-crt-utility-l1-1-0.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/concrt140.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/deactivate.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/easy_install-3.6-script.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/easy_install-3.6.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/easy_install-script.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/easy_install.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/msvcp140.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/pip-script.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/pip.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/pip3-script.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/pip3.6-script.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/pip3.6.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/pip3.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/pyexpat.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/python.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/python3.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/python36.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/pythoncom36.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/pythonw.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/pywintypes36.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/select.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/sqlite3.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/tcl86t.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/tk86t.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/ucrtbase.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/unicodedata.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/vccorlib140.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/vcomp140.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/vcruntime140.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/winsound.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/xlwings32.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/Scripts/xlwings64.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/venv/pyvenv.cfg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-04/www/Model.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-05/.idea/awesome-python3-webapp-day-05.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-05/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-05/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-05/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-05/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-06/.idea/awesome-python3-webapp-day-06.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-06/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-06/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-06/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-06/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-07/.idea/awesome-python3-webapp-day-07.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-07/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-07/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-07/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-07/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-08/.idea/awesome-python3-webapp-day-08.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-08/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-08/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-08/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-08/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-09/.idea/awesome-python3-webapp-day-09.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-09/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-09/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-09/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-09/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-10/.idea/awesome-python3-webapp-day-10.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-10/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-10/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-10/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-10/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-11/.idea/awesome-python3-webapp-day-11.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-11/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-11/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-11/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-11/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-12/.idea/awesome-python3-webapp-day-12.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-12/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-12/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-12/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-12/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-14/.idea/awesome-python3-webapp-day-14.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-14/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-14/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-14/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-14/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-15/.idea/awesome-python3-webapp-day-15.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-15/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-15/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-15/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-15/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-16/.idea/awesome-python3-webapp-day-16.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-16/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-16/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-16/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-16/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../webpy-master/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../webpy-master/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../webpy-master/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../webpy-master/.idea/webpy-master.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../webpy-master/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../20171124/.idea/20171124.iml" afterPath="$PROJECT_DIR$/../20171124/.idea/20171124.iml" />
+      <change beforePath="$PROJECT_DIR$/../20171124/.idea/modules.xml" afterPath="$PROJECT_DIR$/../20171124/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/201712.iml" afterPath="$PROJECT_DIR$/.idea/201712.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/RemoteIP.py" afterPath="$PROJECT_DIR$/RemoteIP.py" />
+      <change beforePath="$PROJECT_DIR$/SocketModels.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ORM/TestORM.py" afterPath="$PROJECT_DIR$/../ORM/TestORM.py" />
+      <change beforePath="$PROJECT_DIR$/../Snow/.idea/Snow.iml" afterPath="$PROJECT_DIR$/../Snow/.idea/Snow.iml" />
+      <change beforePath="$PROJECT_DIR$/../Snow/TestAsyncio.py" afterPath="$PROJECT_DIR$/../Snow/TestAsyncio.py" />
+      <change beforePath="$PROJECT_DIR$/../Snow/TestChardet.py" afterPath="$PROJECT_DIR$/../Snow/TestChardet.py" />
+      <change beforePath="$PROJECT_DIR$/../Snow/aiohttp.py" afterPath="$PROJECT_DIR$/../Snow/aiohttp.py" />
+      <change beforePath="$PROJECT_DIR$/../Snow/code.jpg" afterPath="$PROJECT_DIR$/../Snow/code.jpg" />
+      <change beforePath="$PROJECT_DIR$/../awesome-python3-webapp-day-04/.idea/awesome-python3-webapp-day-04.iml" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-04/.idea/awesome-python3-webapp-day-04.iml" />
+      <change beforePath="$PROJECT_DIR$/../awesome-python3-webapp-day-04/www/orm.py" afterPath="$PROJECT_DIR$/../awesome-python3-webapp-day-04/www/orm.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/201712$SocketModes.coverage" NAME="SocketModes Coverage Results" MODIFIED="1513921325895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$RemoteIP.coverage" NAME="RemoteIP Coverage Results" MODIFIED="1513842961732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$EchoServer.coverage" NAME="EchoServer Coverage Results" MODIFIED="1513913151405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$ModifyBuffSize.coverage" NAME="ModifyBuffSize Coverage Results" MODIFIED="1513846884807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$TestAdd.coverage" NAME="TestAdd Coverage Results" MODIFIED="1513929160276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Tensorflow" />
+    <SUITE FILE_PATH="coverage/201712$SocketTimeout.coverage" NAME="SocketTimeout Coverage Results" MODIFIED="1513843273965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$SntpClient.coverage" NAME="SntpClient Coverage Results" MODIFIED="1513906221023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$LocalIP.coverage" NAME="LocalIP Coverage Results" MODIFIED="1513842674531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$ConvertInteger.coverage" NAME="ConvertInteger Coverage Results" MODIFIED="1513843908358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$PrintTime.coverage" NAME="PrintTime Coverage Results" MODIFIED="1513900877135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$WordIndex.coverage" NAME="WordIndex Coverage Results" MODIFIED="1513946077132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Tensorflow" />
+    <SUITE FILE_PATH="coverage/201712$SocketModels.coverage" NAME="SocketModels Coverage Results" MODIFIED="1513843031204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$FindServiceName.coverage" NAME="FindServiceName Coverage Results" MODIFIED="1513843251870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$Matplotlib.coverage" NAME="Matplotlib Coverage Results" MODIFIED="1514162804195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AILearning" />
+    <SUITE FILE_PATH="coverage/201712$Scipy.coverage" NAME="Scipy Coverage Results" MODIFIED="1514168833910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AILearning" />
+    <SUITE FILE_PATH="coverage/201712$EchoClient.coverage" NAME="EchoClient Coverage Results" MODIFIED="1513911406471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Matplotlib.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AILearning/Matplotlib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scipy.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../AILearning/Scipy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JANAF_CH4.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AILearning/JANAF_CH4.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RemoteIP.py" />
+        <option value="$PROJECT_DIR$/ConvertInteger.py" />
+        <option value="$PROJECT_DIR$/ModifyBuffSize.py" />
+        <option value="$PROJECT_DIR$/SocketModes.py" />
+        <option value="$PROJECT_DIR$/PrintTime.py" />
+        <option value="$PROJECT_DIR$/SntpClient.py" />
+        <option value="$PROJECT_DIR$/EchoClient.py" />
+        <option value="$PROJECT_DIR$/EchoServer.py" />
+        <option value="$PROJECT_DIR$/../Tensorflow/TestAdd.py" />
+        <option value="$PROJECT_DIR$/../Tensorflow/WordIndex.py" />
+        <option value="$PROJECT_DIR$/../AILearning/Matplotlib.py" />
+        <option value="$PROJECT_DIR$/../AILearning/Scipy.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="130" />
+    <option name="y" value="12" />
+    <option name="width" value="1681" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AILearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AILearning" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tensorflow" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Scipy">
+    <configuration name="Matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AILearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AILearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AILearning/Matplotlib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Scipy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AILearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AILearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AILearning/Scipy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="SocketModes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="201712" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SocketModes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TestAdd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Tensorflow/TestAdd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="WordIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Tensorflow/WordIndex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.SocketModes" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TestAdd" />
+      <item index="2" class="java.lang.String" itemvalue="Python.WordIndex" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Matplotlib" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Scipy" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Scipy" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Matplotlib" />
+        <item index="2" class="java.lang.String" itemvalue="Python.WordIndex" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TestAdd" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SocketModes" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="ffa2d3d1-663b-4eb4-a09e-ded6aed1cee1" name="Default" comment="" />
       <created>1512774532219</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -20,8 +727,418 @@
     </task>
     <servers />
   </component>
+  <component name="ToolWindowManager">
+    <frame x="130" y="12" width="1681" height="1026" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17438495" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="866" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.121467225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39867708" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28908888" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SocketModes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/TestAdd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/WinTF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/TestMnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/TestFetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/TestFeed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/WordIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketModes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketModes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EchoClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EchoServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConvertInteger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifyBuffSize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketModes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrintTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConvertInteger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifyBuffSize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketModes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrintTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConvertInteger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifyBuffSize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketModes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrintTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConvertInteger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifyBuffSize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketModes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrintTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LocalIP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoteIP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindServiceName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketTimeout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConvertInteger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifyBuffSize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrintTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketModels.py" />
+    <entry file="file://$PROJECT_DIR$/SntpClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-313451744/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="5184" column="8" lean-forward="false" selection-start-line="5184" selection-start-column="8" selection-end-line="5184" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/2.URL" />
+    <entry file="file://$PROJECT_DIR$/EchoClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EchoServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketModes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/WinTF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/TestMnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/TestFetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/TestFeed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/TestAdd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tensorflow/WordIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="513" column="0" lean-forward="false" selection-start-line="513" selection-start-column="0" selection-end-line="513" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AILearning/Matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AILearning/JANAF_CH4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AILearning/Scipy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

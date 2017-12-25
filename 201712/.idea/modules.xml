@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/201712.iml" filepath="$PROJECT_DIR$/.idea/201712.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AILearning/.idea/AILearning.iml" filepath="$PROJECT_DIR$/../AILearning/.idea/AILearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" filepath="$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" />
     </modules>
   </component>
 </project>

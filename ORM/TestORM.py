@@ -55,3 +55,8 @@ class User(Model):
 
     id = IntegerField(primary_key=True)
     name = StringField()
+
+user = User(id = 123, name = 'Lily')
+sql = "SELECT * FROM student"
+args = "WHERE rownum < 5"
+rs = user.select(sql, args)

@@ -16,6 +16,18 @@
     <orderEntry type="module" module-name="MachineLearning" />
     <orderEntry type="module" module-name="PythonProject" />
     <orderEntry type="module" module-name="awesome-python3-webapp-day-04" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-05" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-06" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-07" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-08" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-09" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-10" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-11" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-12" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-14" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-15" />
+    <orderEntry type="module" module-name="awesome-python3-webapp-day-16" />
+    <orderEntry type="module" module-name="webpy-master" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

@@ -13,7 +13,19 @@
       <module fileurl="file://$PROJECT_DIR$/../awesome/.idea/awesome.iml" filepath="$PROJECT_DIR$/../awesome/.idea/awesome.iml" />
       <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-03/.idea/awesome-python3-webapp-day-03.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-03/.idea/awesome-python3-webapp-day-03.iml" />
       <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-04/.idea/awesome-python3-webapp-day-04.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-04/.idea/awesome-python3-webapp-day-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-05/.idea/awesome-python3-webapp-day-05.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-05/.idea/awesome-python3-webapp-day-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-06/.idea/awesome-python3-webapp-day-06.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-06/.idea/awesome-python3-webapp-day-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-07/.idea/awesome-python3-webapp-day-07.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-07/.idea/awesome-python3-webapp-day-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-08/.idea/awesome-python3-webapp-day-08.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-08/.idea/awesome-python3-webapp-day-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-09/.idea/awesome-python3-webapp-day-09.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-09/.idea/awesome-python3-webapp-day-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-10/.idea/awesome-python3-webapp-day-10.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-10/.idea/awesome-python3-webapp-day-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-11/.idea/awesome-python3-webapp-day-11.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-11/.idea/awesome-python3-webapp-day-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-12/.idea/awesome-python3-webapp-day-12.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-12/.idea/awesome-python3-webapp-day-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-14/.idea/awesome-python3-webapp-day-14.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-14/.idea/awesome-python3-webapp-day-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-15/.idea/awesome-python3-webapp-day-15.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-15/.idea/awesome-python3-webapp-day-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awesome-python3-webapp-day-16/.idea/awesome-python3-webapp-day-16.iml" filepath="$PROJECT_DIR$/../awesome-python3-webapp-day-16/.idea/awesome-python3-webapp-day-16.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tensor_mnist-master/.idea/tensor_mnist-master.iml" filepath="$PROJECT_DIR$/../tensor_mnist-master/.idea/tensor_mnist-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webpy-master/.idea/webpy-master.iml" filepath="$PROJECT_DIR$/../webpy-master/.idea/webpy-master.iml" />
     </modules>
   </component>
 </project>

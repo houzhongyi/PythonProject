@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../20171123/.idea/20171123.iml" filepath="$PROJECT_DIR$/../20171123/.idea/20171123.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20171126/.idea/20171126.iml" filepath="$PROJECT_DIR$/../20171126/.idea/20171126.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/201712.iml" filepath="$PROJECT_DIR$/.idea/201712.iml" />
       <module fileurl="file://$PROJECT_DIR$/../AILearning/.idea/AILearning.iml" filepath="$PROJECT_DIR$/../AILearning/.idea/AILearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scrap/.idea/Scrap.iml" filepath="$PROJECT_DIR$/../Scrap/.idea/Scrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Snow/.idea/Snow.iml" filepath="$PROJECT_DIR$/../Snow/.idea/Snow.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" filepath="$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wechat_jump_game-master/.idea/wechat_jump_game-master.iml" filepath="$PROJECT_DIR$/../wechat_jump_game-master/.idea/wechat_jump_game-master.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/zhihu.photo/.idea/zhihu.photo.iml" filepath="$USER_HOME$/Documents/GitHub/zhihu.photo/.idea/zhihu.photo.iml" />
     </modules>
   </component>
 </project>

@@ -1,35 +1,65 @@
+#encoding:utf-8
 import pymysql
 
+def Connectdb():
+    print("connecting...")
+    db = pymysql.connect("localhost","root","123456","TestDb")
+    print("success!!")
+    return db
+
+def Createtable(db):
+    cursor = db.cursor()
+    cursor.execute("DROP TABLE IF EXISTS Student")
+    sql = """CREATE TABLE STUDENT (
+          ID VARCHAR (10) NOT NULL,
+          NAME VARCHAR (100),
+          GRADE INT (10))"""
+    cursor.execute(sql)
+    db.commit()
+
+def Insertdb(db):
+    cursor = db.cursor()
+    sql = """INSERT INTO STUDENT
+            VALUES ('001', 'A', 10),
+                   ('002', 'B', 20),
+                   ('003', 'C', 30),
+                   ('004', 'D', 40),
+                   ('005', 'E', 50),
+                   ('006', 'F', 60),
+                   ('007', 'G', 70),
+                   ('008', 'H', 80)"""
+    try:
+        cursor.execute(sql)
+        db.commit()
+    except Exception as e:
+        #Rollback in case there is any error
+        print(e)
+        print('插入失败！')
+        db.rollback()
 
 
-# 用户名:hp, 密码:Hp12345.,用户名和密码需要改成你自己的mysql用户名和密码，并且要创建数据库TESTDB，并在TESTDB数据库中创建好表Student
-db = pymysql.connect("localhost","root","123456","TESTDB")
-cursor = db.cursor()
+def Querydb(db):
+    cursor = db.cursor()
+    sql = "SELECT * FROM STUDENT"
 
-# cursor.execute("DROP TABLE IF EXISTS Student")
-# sql = """CREATE TABLE Student (
-#             ID CHAR(10) NOT NULL,
-#             Name CHAR(8),
-#             Grade INT )"""
-# cursor.execute(sql)
-# cursor.execute("INSERT INTO STUDENT (ID, Name, Grade) VALUES (1, 'nash', 8)")
-try:
-    cursor.execute("SELECT * FROM Student")
-    results = cursor.fetchall()
-    for row in results:
-        id = row[0]
-        name = row[1]
-        grade = row[2]
-        print("id = %s, name = %s, grade = %s" % (id, name, grade))
-except:
-    print("Error: unable to fetch data")
-# 使用 execute()  方法执行 SQL 查询
-# a = cursor.execute("SELECT VERSION()")
+    try:
+        cursor.execute(sql)
+        results = cursor.fetchall()
+        print(results)
+        for row in results:
+            ID = row[0]
+            Name = row[1]
+            Grade = row[2]
+            print("ID: %s, Name: %s, Grade: %s" %(ID, Name, Grade))
+    except:
+        print("Error: unable to fetch data")
 
-# 使用 fetchone() 方法获取单条数据.
-# data = cursor.fetchone()
-
-# 关闭数据库连接
-db.close()
+def main():
+    db = Connectdb()
+    # Createtable(db)
+    # Insertdb(db)
+    Querydb(db)
 
 
+if __name__ == '__main__':
+    main()

@@ -10,7 +10,7 @@ s.listen(5)
 print('Waiting for connecting...')
 
 def tcplink(sock, addr):
-    print('Accept new connection form %s:%s...' % addr)
+    print('Accept new connection from %s:%s...' % addr)
     sock.send(b'Welcome!')
     while True:
         data = sock.recv(1024)

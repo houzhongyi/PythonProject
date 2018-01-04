@@ -8,5 +8,11 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Tensorflow" />
     <orderEntry type="module" module-name="AILearning" />
+    <orderEntry type="module" module-name="Scrap" />
+    <orderEntry type="module" module-name="zhihu.photo" />
+    <orderEntry type="module" module-name="Snow" />
+    <orderEntry type="module" module-name="20171123" />
+    <orderEntry type="module" module-name="20171126" />
+    <orderEntry type="module" module-name="wechat_jump_game-master" />
   </component>
 </module>

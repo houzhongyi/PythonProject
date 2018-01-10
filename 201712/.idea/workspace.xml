@@ -2,308 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa2d3d1-663b-4eb4-a09e-ded6aed1cee1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/Def.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/Sqlalchemy.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../AILearning/Static.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Scrap/.idea/Scrap.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Scrap/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Scrap/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Scrap/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Scrap/Douban.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Scrap/Whois.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/.github/CONTRIBUTING.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/.github/ISSUE_TEMPLATE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/.github/PULL_REQUEST_TEMPLATE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/AdbWinApi.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/AdbWinUsbApi.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/adb.exe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/1280x720/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/1920x1080/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/2160x1080/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/2560x1440/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/960x540/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/default.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/huawei/honor_note8_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/iPhone/6_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/iPhone/8P_7P_6sP_6P_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/iPhone/X_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/mi/mi5_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/mi/mi5x_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/mi/mi6_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/mi/note2_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/samsung/s7edge_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/samsung/s8.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/samsung/s8在设置里关闭曲面侧屏" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/config/smartisan/pro2_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/fastboot.exe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091729.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091749.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091755.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091801.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091807.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091812.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091819.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091824.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091830.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091840.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091848.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091856.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091911.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091918.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091925.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091930.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091934.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091940.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091948.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/091953.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092000.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092007.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092013.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092021.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092027.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092035.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092043.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092049.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092055.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092106.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092112.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092117.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092133.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092141.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092146.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092152.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092157.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092202.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092209.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092216.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092226.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092233.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092239.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092243.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092250.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092255.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092300.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092310.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092317.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092326.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092333.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092339.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092344.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092349.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092355.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092401.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092406.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092411.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092416.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092422.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092427.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092449.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092455.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092500.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092505.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092511.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092517.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092522.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092530.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092535.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092540.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092546.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092557.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092602.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092611.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092618.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092624.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092629.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092636.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092642.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092653.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092700.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092705.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092710.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092715.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092720.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092725.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092729.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092734.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092739.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092744.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092749.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092754.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092800.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092806.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092811.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092822.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092830.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092835.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092839.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092844.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092850.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092855.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092901.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092906.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/092911.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/train_data/character.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/Tools/adb/wechat_jump_py3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/changelog.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/common/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/common/config.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/common/debug.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/1280x720/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/1440x720/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/1920x1080/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/2160x1080/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/2560x1440/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/960x540/config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/default.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/huawei/honor_note8_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/iPhone/6_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/iPhone/8P_7P_6sP_6P_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/iPhone/SE_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/iPhone/X_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/mi/max2_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/mi/mi5_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/mi/mi5s_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/mi/mi5x_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/mi/mi6_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/mi/note2_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/samsung/s7edge_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/samsung/s8.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/samsung/s8在设置里关闭曲面侧屏" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/config/smartisan/pro2_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/requirements.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/resource/image/jump.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091729.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091749.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091755.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091801.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091807.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091812.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091819.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091824.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091830.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091840.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091848.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091856.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091911.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091918.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091925.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091930.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091934.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091940.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091948.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/091953.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092000.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092007.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092013.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092021.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092027.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092035.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092043.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092049.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092055.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092106.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092112.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092117.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092133.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092141.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092146.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092152.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092157.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092202.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092209.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092216.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092226.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092233.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092239.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092243.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092250.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092255.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092300.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092310.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092317.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092326.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092333.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092339.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092344.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092349.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092355.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092401.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092406.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092411.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092416.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092422.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092427.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092449.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092455.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092500.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092505.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092511.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092517.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092522.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092530.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092535.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092540.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092546.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092557.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092602.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092611.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092618.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092624.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092629.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092636.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092642.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092653.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092700.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092705.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092710.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092715.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092720.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092725.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092729.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092734.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092739.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092744.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092749.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092754.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092800.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092806.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092811.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092822.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092830.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092835.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092839.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092844.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092850.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092855.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092901.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092906.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/092911.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/train_data/character.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/wechat_jump.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/wechat_jump_auto.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/wechat_jump_auto_iOS.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/wechat_jump_iOS_py3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../wechat_jump_game-master/wechat_jump_py3.py" />
-      <change beforePath="$PROJECT_DIR$/../20171123/Oracle.py" afterPath="$PROJECT_DIR$/../20171123/Oracle.py" />
-      <change beforePath="$PROJECT_DIR$/../20171126/ServerTCP.py" afterPath="$PROJECT_DIR$/../20171126/ServerTCP.py" />
-      <change beforePath="$PROJECT_DIR$/../20171126/TCP.py" afterPath="$PROJECT_DIR$/../20171126/TCP.py" />
-      <change beforePath="$PROJECT_DIR$/../20171126/sina.html" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Scrap/ScrapURL.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Scrap/spiderNovel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Server/.idea/Server.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Server/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Server/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Server/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Server/TestArgparse.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Server/venv/echo_Client.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Server/venv/echo_Server.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Snow/Douban.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../crawler-scanner/.idea/crawler-scanner.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../crawler-scanner/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../crawler-scanner/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../crawler-scanner/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../crawler-scanner/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/201712.iml" afterPath="$PROJECT_DIR$/.idea/201712.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../AILearning/Scipy.py" afterPath="$PROJECT_DIR$/../AILearning/Scipy.py" />
-      <change beforePath="$PROJECT_DIR$/../Snow/TestMySQL.py" afterPath="$PROJECT_DIR$/../Snow/TestMySQL.py" />
+      <change beforePath="$PROJECT_DIR$/../Scrap/.idea/Scrap.iml" afterPath="$PROJECT_DIR$/../Scrap/.idea/Scrap.iml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -313,7 +30,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/201712$Douban.coverage" NAME="Douban Coverage Results" MODIFIED="1514509006711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Scrap" />
+    <SUITE FILE_PATH="coverage/201712$Douban.coverage" NAME="Douban Coverage Results" MODIFIED="1515140581792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Scrap" />
+    <SUITE FILE_PATH="coverage/201712$ScrapURL.coverage" NAME="ScrapURL Coverage Results" MODIFIED="1515381704431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Scrap" />
     <SUITE FILE_PATH="coverage/201712$EchoServer.coverage" NAME="EchoServer Coverage Results" MODIFIED="1513913151405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/201712$RemoteIP.coverage" NAME="RemoteIP Coverage Results" MODIFIED="1514509106554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/201712$Whois.coverage" NAME="Whois Coverage Results" MODIFIED="1514444261466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Scrap" />
@@ -323,10 +41,13 @@
     <SUITE FILE_PATH="coverage/201712$FindServiceName.coverage" NAME="FindServiceName Coverage Results" MODIFIED="1513843251870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/201712$Matplotlib.coverage" NAME="Matplotlib Coverage Results" MODIFIED="1514162804195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AILearning" />
     <SUITE FILE_PATH="coverage/201712$zhihu_photo.coverage" NAME="zhihu_photo Coverage Results" MODIFIED="1514446232195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/GitHub/zhihu.photo" />
+    <SUITE FILE_PATH="coverage/201712$spiderNovel.coverage" NAME="spiderNovel Coverage Results" MODIFIED="1515134564747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Scrap" />
     <SUITE FILE_PATH="coverage/201712$Scipy.coverage" NAME="Scipy Coverage Results" MODIFIED="1514989797512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AILearning" />
     <SUITE FILE_PATH="coverage/201712$EchoClient.coverage" NAME="EchoClient Coverage Results" MODIFIED="1513911406471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201712$crawl.coverage" NAME="crawl Coverage Results" MODIFIED="1515154477440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../crawler-scanner" />
     <SUITE FILE_PATH="coverage/201712$TCP.coverage" NAME="TCP Coverage Results" MODIFIED="1514605583342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20171126" />
     <SUITE FILE_PATH="coverage/201712$ServerTCP.coverage" NAME="ServerTCP Coverage Results" MODIFIED="1514601711833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20171126" />
+    <SUITE FILE_PATH="coverage/201712$Douban__1_.coverage" NAME="Douban (1) Coverage Results" MODIFIED="1515141771960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Snow" />
     <SUITE FILE_PATH="coverage/201712$SocketModes.coverage" NAME="SocketModes Coverage Results" MODIFIED="1513921325895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/201712$TestPsutil.coverage" NAME="TestPsutil Coverage Results" MODIFIED="1514605750931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Snow" />
     <SUITE FILE_PATH="coverage/201712$config.coverage" NAME="config Coverage Results" MODIFIED="1514902518961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wechat_jump_game-master/common" />
@@ -345,7 +66,7 @@
     <SUITE FILE_PATH="coverage/201712$TestMySQL.coverage" NAME="TestMySQL Coverage Results" MODIFIED="1514553206587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Snow" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -378,13 +99,17 @@
         <option value="$PROJECT_DIR$/Def.py" />
         <option value="$PROJECT_DIR$/../AILearning/Def.py" />
         <option value="$PROJECT_DIR$/../Scrap/Whois.py" />
-        <option value="$PROJECT_DIR$/../Scrap/Douban.py" />
         <option value="$PROJECT_DIR$/../Snow/TestMySQL.py" />
         <option value="$PROJECT_DIR$/../20171123/Oracle.py" />
         <option value="$PROJECT_DIR$/../20171126/ServerTCP.py" />
         <option value="$PROJECT_DIR$/../20171126/TCP.py" />
         <option value="$PROJECT_DIR$/../wechat_jump_game-master/wechat_jump_auto.py" />
         <option value="$PROJECT_DIR$/../Scrap/Qiegao.py" />
+        <option value="$PROJECT_DIR$/../Scrap/spiderNovel.py" />
+        <option value="$PROJECT_DIR$/../Scrap/ScrapURL.py" />
+        <option value="$PROJECT_DIR$/../Scrap/Douban.py" />
+        <option value="$PROJECT_DIR$/../Snow/Douban.py" />
+        <option value="$PROJECT_DIR$/../crawler-scanner/crawl.py" />
       </list>
     </option>
   </component>
@@ -395,10 +120,26 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="73" />
-    <option name="y" value="18" />
+    <option name="x" value="240" />
+    <option name="y" value="225" />
     <option name="width" value="1681" />
     <option name="height" value="1026" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -416,36 +157,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="201712" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AILearning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="201712" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="201712" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wechat_jump_game-master" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler-scanner" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wechat_jump_game-master" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crawler-scanner" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nash\PycharmProjects\Snow" />
       <recent name="C:\Users\nash\PycharmProjects\201712" />
     </key>
   </component>
@@ -461,46 +195,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Scipy">
-    <configuration name="Scipy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AILearning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AILearning" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AILearning/Scipy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="TCP" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../20171126" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="20171126" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../20171126/TCP.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="TestPsutil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ScrapURL">
+    <configuration name="Douban (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -513,64 +209,102 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Snow" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Snow/TestPsutil.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Snow/Douban.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Douban" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../wechat_jump_game-master/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Scrap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="wechat_jump_game-master" />
+      <module name="Scrap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../wechat_jump_game-master/common/config.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Scrap/Douban.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="wechat_jump_auto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ScrapURL" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../wechat_jump_game-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Scrap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="wechat_jump_game-master" />
+      <module name="Scrap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../wechat_jump_game-master/wechat_jump_auto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Scrap/ScrapURL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="crawl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../crawler-scanner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler-scanner" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../crawler-scanner/crawl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="spiderNovel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Scrap" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Scrap" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Scrap/spiderNovel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.TCP" />
-      <item index="1" class="java.lang.String" itemvalue="Python.TestPsutil" />
-      <item index="2" class="java.lang.String" itemvalue="Python.wechat_jump_auto" />
-      <item index="3" class="java.lang.String" itemvalue="Python.config" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Scipy" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ScrapURL" />
+      <item index="1" class="java.lang.String" itemvalue="Python.spiderNovel" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Douban" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Douban (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.crawl" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Scipy" />
-        <item index="1" class="java.lang.String" itemvalue="Python.wechat_jump_auto" />
-        <item index="2" class="java.lang.String" itemvalue="Python.config" />
-        <item index="3" class="java.lang.String" itemvalue="Python.TestPsutil" />
-        <item index="4" class="java.lang.String" itemvalue="Python.TCP" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ScrapURL" />
+        <item index="1" class="java.lang.String" itemvalue="Python.crawl" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Douban (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Douban" />
+        <item index="4" class="java.lang.String" itemvalue="Python.spiderNovel" />
       </list>
     </recent_temporary>
   </component>
@@ -595,26 +329,33 @@
       <option name="project" value="LOCAL" />
       <updated>1514178953402</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="微信跳一跳">
+      <created>1515054023193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515054023193</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="18" width="1681" height="1026" extended-state="0" />
+    <frame x="240" y="225" width="1681" height="1026" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="866" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3137033" sideWeight="0.50210464" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.085387856" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="866" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947367" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3140676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30098146" sideWeight="0.49789536" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21767889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18821406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.221875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2780807" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38495094" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -632,7 +373,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="人工智能" />
-    <option name="LAST_COMMIT_MESSAGE" value="人工智能" />
+    <MESSAGE value="微信跳一跳" />
+    <option name="LAST_COMMIT_MESSAGE" value="微信跳一跳" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -650,52 +392,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Def.py" />
-    <entry file="file://$PROJECT_DIR$/../AILearning/Def.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="115" column="17" lean-forward="false" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Scrap/Whois.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/GitHub/zhihu.photo/screens/nobody.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/GitHub/zhihu.photo/zhihu_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="744" column="0" lean-forward="false" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/abc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/ProgramData/Anaconda3/Lib/_collections_abc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
@@ -794,20 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Scrap/movies">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8361">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Scrap/Douban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SntpClient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -885,13 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Snow/aiohttp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Snow/TestRequests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -917,7 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -932,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -944,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
           <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -966,9 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <marker date="1514364787891" expanded="true" signature="819:839" ph="SELECT * FRO... orders" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -976,9 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7350">
           <caret line="217" column="23" lean-forward="false" selection-start-line="217" selection-start-column="23" selection-end-line="217" selection-end-column="23" />
-          <folding>
-            <element signature="e#460#469#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -986,15 +657,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Scrap/Qiegao.py">
+    <entry file="file://$PROJECT_DIR$/../Scrap/Qiegao.py" />
+    <entry file="file://$PROJECT_DIR$/../Snow/aiohttp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Scrap/spiderNovel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="778">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Scrap/Douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Scrap/movies">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../webpy-master/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Snow/Douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="791">
+          <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-scanner/下载说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crawler-scanner/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Scrap/ScrapURL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>

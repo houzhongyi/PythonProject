@@ -14,5 +14,7 @@
     <orderEntry type="module" module-name="20171123" />
     <orderEntry type="module" module-name="20171126" />
     <orderEntry type="module" module-name="wechat_jump_game-master" />
+    <orderEntry type="module" module-name="webpy-master" />
+    <orderEntry type="module" module-name="crawler-scanner" />
   </component>
 </module>

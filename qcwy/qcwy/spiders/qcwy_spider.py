@@ -1,6 +1,7 @@
 # # import logging
 import importlib
 import scrapy
+import re
 # import urllib
 # # import codecs
 # #
@@ -62,19 +63,28 @@ class TestfollowSpider(scrapy.Spider):
         item = response.meta['item']
         sel = response.xpath('//div[@class="tCompany_center clearfix"]')
         try:
-            item['experience'] = sel.xpath('//div[@class="jtag inbox"]/div[@class="t1"]/span[last()-3]/text()').extract()[0]
+            item['experience'] = sel.xpath('//div[@class="jtag inbox"]/div[@class="t1"]/span[1]/text()').extract()[0]
         except:
             item['experience'] = ""
         try:
-            item['scale'] = sel.xpath('//p[@class="msg ltype"]/text()').extract()[0]
+            item['education'] = sel.xpath('//div[@class="jtag inbox"]/div[@class="t1"]/span[2]/text()').extract()[0]
+        except:
+            item['education'] = ""
+        try:
+            scale = sel.xpath('//p[@class="msg ltype"]/text()').extract()[0]
+            item['scale'] = scale.strip().replace("\t", "").replace("\xa0", "").replace(" ", "")
         except:
             item['scale'] = ''
         try:
-            item['amount'] = sel.xpath('//div[@class="jtag inbox"]/div[@class="t1"]/span[last()-1]/text()').extract()[0]
+            item['amount'] = sel.xpath('//div[@class="jtag inbox"]/div[@class="t1"]/span[3]/text()').extract()[0]
         except:
             item["amount"] = ''
         try:
-            item['jobInfo'] = sel.xpath('//div[@class="bmsg job_msg inbox"]/p').extract()[0]
+            temp = sel.xpath('//div[@class="bmsg job_msg inbox"]').extract()[0]
+            reg = re.compile(r'<div class="bmsg job_msg inbox">(.*?)<div class="mt10">', re.S)
+            jobInfo = re.findall(reg, temp)[0]
+            item['jobInfo'] = jobInfo.strip().replace("<p>", "").replace("</p>", "").replace("<br>", "")\
+                .replace("\xa0", "").replace("<span>", "").replace("</span>", "").replace("<b>", "").replace("</b>", "")
         except:
             item['jobInfo'] = ''
         yield item

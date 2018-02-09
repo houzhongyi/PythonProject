@@ -14,6 +14,7 @@ class QcwyItem(Item):
     title = Field()     #岗位名称
     amount = Field()    #招聘人数
     experience = Field()#工作经验
+    education = Field() #学历要求
     company = Field()   #公司名称
     link = Field()      #公司网址
     scale = Field()     #公司规模

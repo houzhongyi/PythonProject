@@ -39,6 +39,7 @@ class QcwyOraclePipeline(object):
         title = item['title']
         amount = item['amount']
         experience = item['experience']
+        education = item['education']
         scale = item['scale']
         link = item['link']
         company = item['company']
@@ -48,8 +49,8 @@ class QcwyOraclePipeline(object):
         jobInfo = item['jobInfo']
         jobUrl = item['jobUrl']
         if item.get('title'):
-            tx.execute("insert into QCWY values(:1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11)",
-                       (title, amount, experience, company, link, scale, salary, updatetime, address, jobInfo, jobUrl))
+            tx.execute("insert into QCWY values(:1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11, :12)",
+                       (title, amount, experience, company, link, scale, salary, updatetime, address, jobInfo, jobUrl, education))
 
     def handle_error(self, e):
         print(e)
